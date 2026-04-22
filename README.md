@@ -174,4 +174,4 @@ In the next code we show the PWM frequency (60hz) which is usually good for serv
 </div>
 
 
-- 📫 How to reach me: jajasaludosjoselol@gmail.com
+- 📫 How to reach me: jose.torres.dev04@gmail.com
